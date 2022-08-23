@@ -22,6 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FernandaLMM&repo=FernandaLMM.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FernandaLMM&repo=Certificard)](https://github.com/anuraghazra/github-readme-stats)
+
 # Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt= 'Linkedin' height='30'>](linkedin.com/fernanda-larizza-m-moraes)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt= 'Linkedin' height='30'>](linkedin.com/in/fernanda-larizza-m-moraes)
